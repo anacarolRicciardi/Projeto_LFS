@@ -1,0 +1,6 @@
+pandas
+numpy
+scikit-learn  # Para o futuro modelo de ML
+opencv-python
+pytesseract
+pdf2image
